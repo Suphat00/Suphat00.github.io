@@ -35,4 +35,4 @@
 - **Traffic light control system**
   - ระบบไฟจราจรในเมืองใหญ่ต้องพร้อมทำงานตลอดเวลา หากระบบล่ม อาจก่อให้เกิดความวุ่นวายหรืออุบัติเหตุบนท้องถนน
 
-<a href="(https://wariisara.github.io/availability)"> Go to Page Myfriend <3 </a>
+<a href="https://wariisara.github.io/availability"> Go to Page Myfriend <3 </a>
