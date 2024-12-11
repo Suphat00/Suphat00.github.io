@@ -1,4 +1,4 @@
 # Suphat00
 - Suphattra Prasomsap
   - za
-![my](zaza.jpg)
+![my](img/zaza.jpg)
