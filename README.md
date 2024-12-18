@@ -4,4 +4,4 @@
 
 ![my](img/zaza.jpg)
 
-[Go to Page Myfriend (^_^)](https://suphat00.github.io/e-card)
+[CHRISTMAS (♡°▽°♡) ](https://suphat00.github.io/e-card)
