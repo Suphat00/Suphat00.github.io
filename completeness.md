@@ -2,6 +2,7 @@
 -----
 ## Definition
 
+- Does final dataset align with your needs & expectations?
 - ชุดข้อมูลสุดท้ายสอดคล้องกับความต้องการและความคาดหวังของคุณหรือไม่?
 
 -----
