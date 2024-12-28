@@ -1,6 +1,6 @@
 # ☻ COMPLETENESS
 
-
+-----
 # ☺ Definition
 
 - Does final dataset align with your needs & expectations?
