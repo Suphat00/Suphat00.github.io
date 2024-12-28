@@ -1,4 +1,4 @@
-### COMPLETENESS
+☻ COMPLETENESS
 -----
 ☺ Definition
 
