@@ -1,4 +1,4 @@
-☺ Completeness
+- ☺ Completeness
 -----
 ## Definition
 
