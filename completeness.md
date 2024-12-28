@@ -7,7 +7,7 @@
 -----
 ## Source
 
-- https://www.infocleanse.com/data-quality-checklist/amp/ 
+- [https://www.infocleanse.com/data-quality-checklist/amp/ ](https://www.infocleanse.com/data-quality-checklist/amp/)
 
 -----
 ## Meaning by ChatGPT
