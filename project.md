@@ -15,12 +15,12 @@ Used Tableau Desktop
 ### Trailhead
 - [https://www.salesforce.com/trailblazer/zt9vt9y3pybci0y9m7](https://www.salesforce.com/trailblazer/zt9vt9y3pybci0y9m7)
 
-  -----
+-----
 # ☺ 2023
 ### Puzzle Game
 Used Java in Coding
 
-  -----
+-----
 # ☺ 2022
 ### RESTAURANT
 Used C++ and OOP in Coding
