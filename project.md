@@ -4,7 +4,7 @@
 # ☺ 2024
 ### SA Project : Hotel reservation system 
 Planing, Analysis, Design and Develop system
-- [https://www.infocleanse.com/data-quality-checklist/amp/ ](https://www.infocleanse.com/data-quality-checklist/amp/)
+- [https://www.infocleanse.com/data-quality-checklist/amp/ ](https://drive.google.com/file/d/1aLUklgywawkpvsi0F7gZerfgdXqYsjXc/view)
 - [https://www.figma.com/design/OhP1mWDNfPZXUkOxHHfgID/SA-Website](https://www.figma.com/design/OhP1mWDNfPZXUkOxHHfgID/SA-Website)
 ### PM Project : CYNC APPS 
 Planing, Analysis, Design and Develop
